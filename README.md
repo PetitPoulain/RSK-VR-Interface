@@ -14,7 +14,7 @@
 - [x] Make a basic usb controller interface to control the robot
 /**********************************************************************************************************/ - Resonite ( Single player / Multiplayers )
 - [x] Manage to be able to chose a specific robot in Resonite
-- [ ] Manage to control the robot from Resonite
+- [x] Manage to control the robot from Resonite
 - [x] Manage to get a 3D model of the robot move acordingly to the position of the IRL robots in Resonite
 - [ ] Manage to have a first person view of the robot in Resonite ( Partially working )
 /**********************************************************************************************************/ - Unity ( Single Player Only )
