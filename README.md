@@ -1,11 +1,11 @@
 # RSK-VR-Interface
-[https://resonite.com/](url)
+[Resonite Homepage]([url](https://resonite.com/))
 
-[https://x.com/namecteam](url)
+[NAMeC X]([url](https://x.com/namecteam))
 
-[https://robot-soccer-kit.github.io/](url)
+[RSK Project page]([url](https://robot-soccer-kit.github.io/))
 
-[https://github.com/robot-soccer-kit/robot-soccer-kit](url)
+[RSK Github page]([url](https://github.com/robot-soccer-kit/robot-soccer-kit))
 
 
 - [x] Make a basic map of what to do
