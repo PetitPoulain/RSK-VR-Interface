@@ -73,7 +73,7 @@ def main():
             #                                     -y * constants.max_linear_acceleration,
             #                                     -rads * constants.max_angular_accceleration / 3)
             if kicks:
-                RSKclient.robots['green'][2].kick()
+                RSKclient.robots[Team][No_Bots].kick()
 
             OSCclient.send_message(f"/RSK/BallX", xB)
             OSCclient.send_message(f"/RSK/BallY", yB)
