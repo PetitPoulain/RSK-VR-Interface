@@ -23,9 +23,13 @@
 - [ ] Manage to get a 3D model of the robot move acordingly to the position of the IRL robots in Unity
 - [ ] Manage to have a first person view of the robot in Unity
 
-During the years 2023-2024 i worked on making a VR interface for the NAMeC team for there RoboCup SSL division robot. 
-Unfortunatly due to a lack of time and issue with the actual robot i wasn't able to acomplish my goal.
-A couple of month ago, back in october we asked me to take back that original project but instead of making the interface for the SSL robot we charged
-me of doing it for the RSK robots, which are smaller and easier to program and work with.
+During the years 2023-2024 I worked on making a VR interface for the named team for there RoboCup SSL division robot. 
+Unfortunately, due to a lack of time and issue with the actual robot I wasn't able to accomplish my goal.
+A couple of months ago, back in October we asked me to take back that original project but instead of making the interface for the SSL robot we charged
+Me of doing it for the RSK robots, which are smaller and easier to program and work with.
 
-During the first couple of class i
+During the first couple of classes, I did a small basic list of what I should do, once I did that I started working on programming some sort of "universal layer".
+The way the project was originally intended to work was to have the robot connected to its usual control interface and then directly make the VR interface communicate with the normal control interface. Instead of doing this I opted to have a small piece of software in between call an OSC interface.
+Now the VR interface we want to use connect to the OSC and the OSC is doing the link with the control interface of the robot.
+In this way, it is way easier to use different VR interface or even 2D interface as OSC is widely use in VR to communicate with the device.
+Using OSC also allows us to easily switch software in the future without to remake the entire code, instead only a small code of a few lines is all would be needed to adapt the new software to the OSC layer.
