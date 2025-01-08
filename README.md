@@ -12,12 +12,14 @@
 - [x] Make a "universal" interface to comunicate between te robot and the 3D interface
 - [x] Manage to control more than one robot at the same time
 - [x] Make a basic usb controller interface to control the robot
-/**********************************************************************************************************/ - Resonite ( Single player / Multiplayers )
+/**********************************************************************************************************/
+- Resonite ( Single player / Multiplayers )
 - [x] Manage to be able to chose a specific robot in Resonite
 - [x] Manage to control the robot from Resonite
 - [x] Manage to get a 3D model of the robot move acordingly to the position of the IRL robots in Resonite
 - [ ] Manage to have a first person view of the robot in Resonite ( Partially working )
-/**********************************************************************************************************/ - Unity ( Single Player Only )
+/**********************************************************************************************************/
+- Unity ( Single Player Only )
 - [ ] Manage to be able to chose a specific robot in Unity
 - [ ] Manage to control the robot from Unity
 - [ ] Manage to get a 3D model of the robot move acordingly to the position of the IRL robots in Unity
