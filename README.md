@@ -1,8 +1,12 @@
 # RSK-VR-Interface
 [https://resonite.com/](url)
+
 [https://x.com/namecteam](url)
+
 [https://robot-soccer-kit.github.io/](url)
+
 [https://github.com/robot-soccer-kit/robot-soccer-kit](url)
+
 
 - [x] Make a basic map of what to do
 - [x] Make a "universal" interface to comunicate between te robot and the 3D interface
