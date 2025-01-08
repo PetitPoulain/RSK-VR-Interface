@@ -10,7 +10,7 @@
 
 - [x] Make a basic map of what to do
 - [x] Make a "universal" interface to comunicate between te robot and the 3D interface
-- [x] Manage to control more than one robot at the same time
+- [ ] Manage to control more than one robot at the same time ( Partially working )
 - [x] Make a basic usb controller interface to control the robot
 /**********************************************************************************************************/
 - Resonite ( Single player / Multiplayers )
