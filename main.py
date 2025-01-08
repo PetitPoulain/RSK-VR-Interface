@@ -66,7 +66,7 @@ def main():
             scan_controller()
 
             x, y, rads, kicks = get_controller()
-            xR, yR, degR = coordone('green', 2)
+            xR, yR, degR = coordone(Team, No_Bots)
             xB, yB = RSKclient.ball
 
             # RSKclient.robots['green'][2].control(-x * constants.max_linear_acceleration,
