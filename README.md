@@ -25,7 +25,7 @@
 - [ ] Manage to get a 3D model of the robot move acordingly to the position of the IRL robots in Unity
 - [ ] Manage to have a first person view of the robot in Unity
 
-![alt text](https://github.com/PetitPoulain/RSK-VR-Interface/blob/main/Diagram.png?raw=true)
+![alt text]()
 
 During the years 2023-2024 I worked on making a VR interface for the named team for there RoboCup SSL division robot. 
 Unfortunately, due to a lack of time and issue with the actual robot I wasn't able to accomplish my goal.
