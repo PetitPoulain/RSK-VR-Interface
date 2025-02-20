@@ -42,3 +42,6 @@ After doing so, I started working on the VR side of the thing. First, I needed s
 
 I did not start working with unity yet, I wanted to first get a good view of how to make things right and what could I do to embellish the project, so I started implementing the robot inside of Resonite VR. Resonate is some sort of a sandbox VR game where you can create everything you want directly in-game, last years I had connected my lawn mower to the game and a Swiss person ended up driving my mower in my garden from his home hundreds of kilometers away from my house.
 I wanted to reuse the knowledge I gained doing this and apply the concept to the RSK and be able to have people from all around the world be able to assist a match in VR and be able to play a match by controlling those robots.
+
+#Part 2
+#Part 3
